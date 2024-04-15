@@ -1,0 +1,1 @@
+# aws-athena-project-for-querying-covid19-data
