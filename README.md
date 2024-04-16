@@ -1,1 +1,1 @@
-# aws-athena-project-for-querying-covid19-data
+# aws-athena-project-for-Smartphone-data
