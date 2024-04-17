@@ -31,3 +31,22 @@ we utilize it for where we need to take random count like count million row
 
 
 
+
+
+join the athena with power bi :
+
+download the athena odbc connection 
+then provide access and policy to role
+then new access key genereated from sucuirty of the user
+
+
+open odbc take system dns then add simba athena database 
+add setup value 
+also autontification put the value of secreat key and pass
+test the connection 
+provide s3 path and now you are ready to go with powerbi
+
+
+power getata search for odbc 
+ask for key and pass provide same key and pass
+done
